@@ -2,7 +2,7 @@
   "name": "my-first-frontity-project",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://mati4315.github.io/CdelU",
+  "homepage": "https://mati4315.github.io/CdelU/",
   "description": "Frontity project",
   "keywords": [
     "frontity"
@@ -12,7 +12,7 @@
     "npm": ">=6.0.0"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "frontity dev",
     "build": "frontity build",
